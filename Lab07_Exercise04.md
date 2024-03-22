@@ -51,6 +51,15 @@ dotnet run --project Lab07_Ex04
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/c12783e9-6280-4b5e-a920-b12329e858e4)
 
+
+ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/d976b2a1-a6bb-4bed-b9cd-28f147d50eef)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/e1d6269b-5ea3-4b17-9689-29bccc38e4c8)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/9c63216c-72f6-44e8-8eb5-2a1f2578bd4e)
+
 7. อธิบายสิ่งที่พบในการทดลอง
 
 
