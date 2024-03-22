@@ -7,6 +7,7 @@
 ```cmd
 dotnet new console --name Lab07_Ex01
 ```
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/57a14468-ff3b-48c4-bb47-8b3f4d655ff4)
 
 2. เปลี่ยน code ให้เป็นดังต่อไปนี้
 
@@ -37,6 +38,8 @@ class Circle
     }
 }
 ```
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/879884a1-839a-465b-b1ba-4149b5e24396)
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/d7e33608-787d-466b-8b51-9d8414fa29d9)
 
 3. Build project โดยการใช้คำสั่ง
 
@@ -47,6 +50,7 @@ dotnet build  Lab07_Ex01
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/de669c10-f692-45f6-9ceb-28958d534746)
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -55,6 +59,7 @@ dotnet run --project Lab07_Ex01
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-07/assets/144197034/be8b8d2c-1eba-48fd-8604-00aef9e7c9f3)
 
 7. อธิบายสิ่งที่พบในการทดลอง
 
