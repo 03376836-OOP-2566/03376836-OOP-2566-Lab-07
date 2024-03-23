@@ -38,6 +38,8 @@ dotnet build  Lab07_Ex04
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="611" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-07/assets/144195963/bdc4ef4a-4149-4aab-ab8c-28892a2a131d">
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -46,4 +48,8 @@ dotnet run --project Lab07_Ex04
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="458" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-07/assets/144195963/457c56cc-4640-410a-bce1-af8e2236e84f">
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล My value = 50
