@@ -47,6 +47,8 @@ dotnet build  Lab07_Ex02
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="494" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-07/assets/144195963/3f3ceda3-0c42-4b0f-b006-d8c48cd5181d">
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -55,4 +57,11 @@ dotnet run --project Lab07_Ex02
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="474" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-07/assets/144195963/6876314c-6310-455c-9111-8927c8812410">
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+
+ปรแกรมจะแสดงผล
+mc.MyValue = 50
+mc.MyValue = 100
