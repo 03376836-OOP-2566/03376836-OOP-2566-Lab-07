@@ -1,12 +1,15 @@
 ﻿MyClass mc = new MyClass();
 mc.MyValue = 50;
-System.Console.WriteLine($"My value  = {mc.MyValue}");
-
+System.Console.WriteLine($"My value = {mc.MyValue}");
 class MyClass
 {
     private int StoredValue;
     public int MyValue
     {
+        get
+        {
+            return StoredValue;
+        }
         set
         {
             StoredValue = value;
