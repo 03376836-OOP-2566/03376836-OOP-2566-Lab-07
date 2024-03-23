@@ -47,6 +47,7 @@ dotnet build  Lab07_Ex01
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+<img width="551" alt="Screenshot 2024-03-24 040057" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-07/assets/144195963/8af7ce8a-e0c9-4107-837e-9061342dc18a">
 
 5. Run project โดยการใช้คำสั่ง
 
@@ -56,4 +57,9 @@ dotnet run --project Lab07_Ex01
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="548" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-07/assets/144195963/732282c3-9d95-42aa-84c0-862d7e90c18c">
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+My circle has radius of 3.0000 and diameter of 6.0000 unit
+My circle has radius of 4.0000 and diameter of 8.0000 unit
