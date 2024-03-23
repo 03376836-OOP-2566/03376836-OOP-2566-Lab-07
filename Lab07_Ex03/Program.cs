@@ -6,12 +6,20 @@ System.Console.WriteLine($"My value  = {mc.MyValue}");
 
 class MyClass
 {
-    private const double My_PI =  Math.PI;
+    private  double myValue;
+    public MyClass()
+    {
+        myValue = Math.PI;
+    }
     public double MyValue
     {
         get
         {
-            return My_PI;
+            return myValue;
+        }
+        set
+        {
+            myValue = value;
         }
     }
 }
