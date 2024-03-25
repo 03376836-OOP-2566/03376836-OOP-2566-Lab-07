@@ -38,6 +38,8 @@ dotnet build  Lab07_Ex04
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![4](https://github.com/Siriratda/03376836-OOP-2566-Lab-07/assets/144195995/2ecc7706-4c91-4655-a531-ce7c97074a04)
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -46,4 +48,9 @@ dotnet run --project Lab07_Ex04
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![4 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-07/assets/144195995/96971e84-ccef-4c79-8ad4-f904fb230891)
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้ เพราะ MyValue ที่มี set เท่านั้นและไม่มี get
+โปรแกรมจะแสดงผล My value = 50
