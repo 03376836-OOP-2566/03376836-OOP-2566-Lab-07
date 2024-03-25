@@ -48,6 +48,8 @@ dotnet build  Lab07_Ex01
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![1](https://github.com/Siriratda/03376836-OOP-2566-Lab-07/assets/144195995/0d2dbd14-fbef-496a-8d16-8e5bddb4b9cb)
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -56,4 +58,10 @@ dotnet run --project Lab07_Ex01
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![1 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-07/assets/144195995/94abd4aa-934a-4027-880f-0b1e1ff01cf7)
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+โปรแกรมจะแสดงผล
+My circle has radius of 3.0000 and diameter of 6.0000 unit
+My circle has radius of 4.0000 and diameter of 8.0000 unit
