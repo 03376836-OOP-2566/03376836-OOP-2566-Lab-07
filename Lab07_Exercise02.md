@@ -47,6 +47,8 @@ dotnet build  Lab07_Ex02
 
 4. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![2](https://github.com/Siriratda/03376836-OOP-2566-Lab-07/assets/144195995/5c8a9551-4cf5-4df3-bcf4-47febc9af7b6)
+
 5. Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -55,4 +57,11 @@ dotnet run --project Lab07_Ex02
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![2 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-07/assets/144195995/cd6e87cd-4726-41c7-823e-d9c0ed94cf2e)
+
 7. อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ สามารถเข้าถึง class แบบ pubilc ได้
+โปรแกรมจะแสดงผล
+mc.MyValue = 50
+mc.MyValue = 100
