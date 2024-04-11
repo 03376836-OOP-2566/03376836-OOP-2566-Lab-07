@@ -55,5 +55,9 @@ dotnet run --project Lab07_Ex01
 ```
 
 6. บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+<img width="960" alt="7 1 1" src="https://github.com/NathaphonTan/03376836-OOP-2566-Lab-07/assets/144870609/31fef598-03f7-471e-9586-c0ba98637487">
 
 7. อธิบายสิ่งที่พบในการทดลอง
+   โปรแกรมจะแสดงผล
+   My circle has radius of 3.0000 and diameter of 6.0000 unit
+   My circle has radius of 4.0000 and diameter of 8.0000 unit
